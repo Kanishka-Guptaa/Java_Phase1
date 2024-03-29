@@ -1,4 +1,4 @@
-package Assisted_Practice;
+package Assisted_Practice_L2;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Assisted_Practice;
+package Assisted_Practice_L2;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
